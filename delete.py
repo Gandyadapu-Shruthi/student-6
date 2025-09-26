@@ -7,4 +7,5 @@ def delete_student():
             print("student deleted sucessfully")
             return
         print("student not found")
-#delete_student()
+delete_student()
+
