@@ -9,4 +9,5 @@ def update_student():
             print("student updated sucessfully")
             return
         print("student id did not match")
-#update_student()
+update_student()
+
