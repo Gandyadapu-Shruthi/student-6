@@ -6,4 +6,5 @@ def search_student():
             print(f"id:{s['id']},name:{s['name']},course:{s['course']},marks:{s['marks']}")
             return
     print("student not found")
-#search_student()
+search_student()
+
