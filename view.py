@@ -9,6 +9,7 @@ def view_students():
         print(f"{s['id']}\t{s['name']}\t{s['course']}\t{s['marks']}")
         print()
 
-#view_students()
+view_students()
+
 
 
